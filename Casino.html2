@@ -1,0 +1,515 @@
+﻿﻿﻿<!DOCTYPE html>
+<head>
+<title>CASINO JERRY</title> 
+</head>
+<body>
+				<style>
+								body{
+								background:limegreen;
+								}
+								#start{
+								width:350px;
+								height:345px;
+								border:2px solid black;
+								overflow:hidden;
+								}
+					
+								#sas {
+								width:115px;
+								height:115px;
+								background:red;
+								display:block;
+								position:relative;
+								
+								}
+								#sas2 {
+								width:115px;
+								height:115px;
+								background:green;
+								display:block;
+								position:relative;
+								}
+								
+									#sas3 {
+								width:115px;
+								height:115px;
+								background:yellow;
+								display:block;
+								position:relative;
+								}
+								
+								#gaz {
+								width:115px;
+								height:115px;
+								background:green;
+								display:block;
+								position:relative;
+								}
+								
+								#gaz2{
+								width:115px;
+								height:115px;
+								background:yellow;
+								display:block;
+								position:relative;
+								}
+								
+								#gaz3{
+								width:115px;
+								height:115px;
+								background:red;
+								display:block;
+								position:relative;
+								}
+								
+								#raz{
+								width:115px;
+								height:115px;
+								background:red;
+								display:block;
+								position:relative;
+								}
+								
+								#raz2{
+								width:115px;
+								height:115px;
+								background:yellow;
+								display:block;
+								position:relative;
+								}
+								
+								#raz3{
+								width:115px;
+								height:115px;
+								background:pink;
+								display:block;
+								position:relative;
+								}
+								
+								#a{
+								float:left;
+								display:block;
+								position:relative;
+								top:-2400px;
+								}
+								
+								#b{
+								float:left;
+								position:relative;
+								top:-3780px;
+								left:3px;
+								}
+								
+									#c{
+								float:left;
+								position:relative;
+								top:-5390px;
+								left:6px;
+								}
+								
+								#ses{
+								position:fixed;
+								top:600px;
+								left:60%;
+								border-radius:50px;
+								border:5px solid red;
+								background:green;
+								color:white;
+								width:100px;
+								height:100px;
+								}
+							
+								
+				</style>
+				
+	<div id="start">
+				<div id="a">
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				<div id="sas"></div>
+				<div id="sas2"></div>
+				<div id="sas3"></div>
+				    </div>
+				
+				<div id="b">
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				<div id="gaz3"></div>
+				<div id="gaz"></div>
+				<div id="gaz2"></div>
+				
+						     	</div>
+						     	
+				<div id="c">
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz2"></div>
+				<div id="raz3"></div>
+				<div id="raz"></div>
+				<div id="raz"></div>
+				
+						     	</div>
+	</div>	
+
+				<input type="submit" value="CLICK ME" onclick="Hello()" id="ses">
+				
+			<script>
+														
+var das = [10,20,30,40,50,60,70,80,90,100];				
+var das2 = [10,20,30,40,50,60,70,80,90,100];	
+
+var voz = 0;
+
+var balans = 30;
+var itog;
+
+if(balans > 20) {
+			itog = das;
+}
+else{
+   itog = das2;
+}
+
+
+var mop = document.getElementById("sas");
+var mol = document.getElementById("sas2");
+var mos = document.getElementById("gaz2");
+var mok = document.getElementById("raz2");
+var mog = document.getElementById("raz3");
+
+var summa;
+
+
+
+
+
+
+
+function Hello() {
+summa = itog[voz++];
+Qwerty();
+Qwerty2();
+Qwerty3();
+Start();
+Stopback();
+}
+<!--  -->
+
+function Stopback() {
+if(summa == 100) {
+voz = 0;
+}
+}
+
+
+var das = `<img src="https://www.seekpng.com/png/detail/86-868915_bar-sign-med1-bar-neon-sign-png.png" alt="" width ="75px" height = "75px">`;
+
+var tut = `<img src="https://www.mariowiki.com/images/6/67/Lucky7-MK7.png" alt="" width ="75px" height = "75px">`;
+
+
+var qer = `<img src="https://i.playground.ru/i/pix/495174/image.jpg" alt=""  width ="75px" height = "75px">`;
+
+var joi = `<img src="https://ih1.redbubble.net/image.258888788.8207/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="" width ="75px" height = "75px">`;
+
+
+var summa1;
+var summa2;
+var summa3;
+var summa4;
+var summa5;
+var summa6;
+var summa7;
+var summa8;
+var summa9;
+
+  
+//joi - вишня. 
+//qer - лимон. 
+//tut - три семерки. 
+
+
+
+
+function Start() {
+if (summa == 10) {
+summa2 = das;
+summa5 = das;
+summa8 = das;
+Elem();
+Maz();
+}
+else if(summa == 20){
+summa1 = das;
+summa5 = das;
+summa9 = das;
+summa2 = qer;
+summa8 = tut;
+Elem();
+Maz2();
+}
+else if(summa == 30){
+summa1 = qer;
+summa5 = das;
+summa9 = joi;
+summa2 = qer;
+summa8 = tut;
+Elem();
+}
+else if(summa == 40){
+summa1 = das;
+summa5 = tut;
+summa8 = joi;
+summa2 = tut;
+summa8 = qer;
+summa9 = tut;
+Elem();
+}
+else if(summa == 50){
+summa1 = das;
+summa5 = tut;
+summa8 = joi;
+summa2 = tut;
+summa8 = qer;
+summa7 = tut;
+summa9 = das;
+Elem();
+}
+}
+
+
+function Elem () {
+document.getElementById("sas").innerHTML = summa1;
+document.getElementById("sas2").innerHTML= summa2;
+document.getElementById("sas3").innerHTML= summa3;
+document.getElementById("gaz").innerHTML= summa4;
+document.getElementById("gaz2").innerHTML= summa5;
+document.getElementById("gaz3").innerHTML= summa6;
+document.getElementById("raz").innerHTML= summa7;
+document.getElementById("raz2").innerHTML= summa8;
+document.getElementById("raz3").innerHTML= summa9;
+}
+
+
+
+
+
+
+
+
+
+
+function Maz() {
+setTimeout(Sas, 2800);
+function Sas() {
+var out = 0;
+var wet = setInterval(Fest, 300);
+function Fest() {
+if(summa == 10) {
+if(out == 0) {
+mol.style.backgroundColor= "blue";
+mos.style.backgroundColor= "blue";
+mok.style.backgroundColor= "blue";
+out = 1;
+}
+else{
+mol.style.backgroundColor= "green";
+mos.style.backgroundColor= "green";
+mok.style.backgroundColor= "green";
+out = 0;
+}
+}
+else{
+clearInterval(wet);
+mol.style.backgroundColor= "green";
+mos.style.backgroundColor= "yellow";
+mok.style.backgroundColor= "yellow";
+}
+}
+}
+}
+
+
+function Maz2() {
+setTimeout(Sas2, 2800);
+function Sas2() {
+var out2 = 0;
+var wet2 = setInterval(Fest2, 300);
+function Fest2() {
+if(summa == 20) {
+if(out2 == 0) {
+mop.style.backgroundColor= "blue";
+mos.style.backgroundColor= "blue";
+mog.style.backgroundColor= "blue";
+out2 = 1;
+}
+else{
+mop.style.backgroundColor= "green";
+mos.style.backgroundColor= "green";
+mog.style.backgroundColor= "green";
+out2 = 0;
+}
+}
+else{
+clearInterval(wet2);
+mop.style.backgroundColor= "green";
+mos.style.backgroundColor= "yellow";
+mog.style.backgroundColor= "yellow";
+}
+}
+}
+}
+<!-- hello()  -->
+
+function Qwerty() {
+var sos = 0;
+var relem = document.getElementById("a");
+var kaz = setInterval(Res, 5);
+function Res() {
+sos+=10;
+relem.style.marginTop = sos + "px";
+if(sos == 2400) {
+sos = 0;
+clearInterval(kaz);
+}
+}
+}
+<!--  -->
+
+function Qwerty2() {
+var sok = 0;
+var kelem = document.getElementById("b");
+var kam = setInterval(Rez, 5);
+function Rez() {
+sok+=10;
+kelem.style.marginTop = sok + "px";
+if(sok == 3780) {
+sok = 0;
+clearInterval(kam);
+}
+}
+}
+<!--  -->
+
+function Qwerty3() {
+var hok = 0;
+var pelem = document.getElementById("c");
+var nam = setInterval(Rek, 5);
+function Rek() {
+hok+=10;
+pelem.style.marginTop = hok + "px";
+if(hok == 5390) {
+hok = 0;
+clearInterval(nam);
+}
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+				
+</body>
+</html>
